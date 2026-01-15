@@ -14,8 +14,8 @@
 - Tools: Git, GitHub, Power BI
 
 ### 📌 Featured Projects
-(you will add links later)
+
 
 ### 📫 Contact
-- LinkedIn: <your link>
-- Email: <your email>
+- LinkedIn: <(https://www.linkedin.com/in/aryan-jhamnani-30895a1a3/)>
+- Email: <aryanjhamnani@gmail.com>
